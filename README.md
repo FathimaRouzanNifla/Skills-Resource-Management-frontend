@@ -57,3 +57,34 @@ Clone the repository:
 ```bash
 git clone https://github.com/FathimaRouzanNifla/Skills-Resource-Management-frontend.git 
 cd frontend
+
+Install dependencies:
+```bash
+npm install
+
+## **5. Environment Variables**
+Create a .env file in the frontend:
+```bash
+VITE_API_BASE_URL=http://localhost:5000/api
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
